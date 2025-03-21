@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm HOU YUJIE, you can call me YUJIE.
+
+🌱 I’m currently studying at the University of Malaya.
+👯 I come from China and I'm looking for friends from all over the world.
+💬 Ask me about everything
+📫 How to reach me: WhatsApp 0178454786
 <!--
 **HOU-YUJIE/HOU-YUJIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
