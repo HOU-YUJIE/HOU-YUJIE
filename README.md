@@ -11,6 +11,11 @@ I'm HOU YUJIE, you can call me YUJIE.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOU-YUJIE)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HOU-YUJIE&theme=react)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
+
+
 <img src="image.png" />
 
 <!--
