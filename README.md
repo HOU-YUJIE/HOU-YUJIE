@@ -7,7 +7,7 @@ I'm HOU YUJIE, you can call me YUJIE.
 💬 Ask me about everything.  
 📫 How to reach me: WhatsApp 0178454786.  
 
-<img src="image.jpg" />
+<img src="image.png" />
 
 <!--
 **HOU-YUJIE/HOU-YUJIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
