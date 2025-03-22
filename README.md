@@ -7,6 +7,10 @@ I'm HOU YUJIE, you can call me YUJIE.
 💬 Ask me about everything.  
 📫 How to reach me: WhatsApp 0178454786.  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HOU-YUJIE)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOU-YUJIE)
+
 <img src="image.png" />
 
 <!--
